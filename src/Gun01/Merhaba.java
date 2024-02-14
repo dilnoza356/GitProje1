@@ -6,5 +6,10 @@ public class Merhaba {
         System.out.println("Merhaba 2");
         System.out.println("merhab 3");
 
+        for (int  i= 0;  i < 5; i++) {
+            System.out.println("merhaba");
+
+        }
+
     }
 }
